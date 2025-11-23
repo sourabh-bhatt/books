@@ -1,0 +1,382 @@
+{
+  "document_info": {
+    "title": "Modern Real Estate Practice Study Guide",
+    "edition": "20th Edition",
+    "publisher": "Dearborn",
+    "authors": [
+      "Fillmore W. Galaty",
+      "Wellington J. Allaway",
+      "Robert C. Kyle"
+    ],
+    "contributing_editor": "Martha S. Williams, JD",
+    "total_pages": 260,
+    "source_file": "Book.pdf",
+    "analysis_date": "2025-11-23",
+    "analysis_method": "Claude Code Vision Analysis"
+  },
+  "book_structure": {
+    "total_units": 16,
+    "unit_components": [
+      "Learning Objectives",
+      "Key Terms",
+      "Matching Exercises",
+      "True/False Questions",
+      "Multiple Choice Questions",
+      "Math Practice (selected units)",
+      "Activities and Worksheets (selected units)",
+      "Answer Keys with Explanations"
+    ]
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Introduction to the Real Estate Business",
+      "page_range": "1-6",
+      "topics": [
+        "Careers in real estate industry",
+        "Property classifications and characteristics",
+        "Supply and demand factors",
+        "Real estate investing advantages and disadvantages"
+      ],
+      "key_terms": [
+        "associate licensee",
+        "appreciation",
+        "broker",
+        "capital gain",
+        "depreciation",
+        "equity buildup",
+        "exchanges",
+        "investing",
+        "leverage",
+        "liquidity",
+        "market",
+        "real estate licensee",
+        "salesperson",
+        "sales associate",
+        "supply and demand"
+      ],
+      "question_types": ["Matching", "True/False", "Multiple Choice"],
+      "has_math_practice": false,
+      "has_activities": false
+    },
+    {
+      "unit_number": 2,
+      "title": "Real Property and the Law",
+      "topics": [
+        "Legal aspects of real property",
+        "Property rights and classifications",
+        "Legal descriptions and characteristics"
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Interests in Real Estate",
+      "topics": [
+        "Types of property interests",
+        "Estates in land",
+        "Encumbrances and liens"
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Forms of Real Estate Ownership",
+      "topics": [
+        "Different ownership structures",
+        "Co-ownership types",
+        "Corporate and trust ownership"
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Land Descriptions",
+      "topics": [
+        "Legal descriptions",
+        "Survey methods",
+        "Metes and bounds, lot and block, government survey"
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "Transfer of Title",
+      "topics": [
+        "Methods of transferring property",
+        "Deeds and title transfer",
+        "Involuntary alienation"
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "Title Records",
+      "topics": [
+        "Recording systems",
+        "Title insurance",
+        "Chain of title"
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "Real Estate Brokerage",
+      "topics": [
+        "Brokerage operations",
+        "Office management",
+        "Professional standards"
+      ]
+    },
+    {
+      "unit_number": 9,
+      "title": "Real Estate Agency",
+      "page_range": "85-93",
+      "topics": [
+        "Agency relationships and legal responsibilities",
+        "Fiduciary duties",
+        "Types of agency relationships",
+        "Third-party considerations",
+        "Disclosure requirements"
+      ],
+      "key_terms": [
+        "nonagent",
+        "customer",
+        "fiduciary relationship",
+        "special agent",
+        "agent",
+        "general agent",
+        "implied agency",
+        "law of agency",
+        "puffing",
+        "principal"
+      ],
+      "question_types": ["Matching A", "Matching B", "True/False", "Multiple Choice", "Fill-in-the-Blank"],
+      "has_math_practice": false,
+      "has_activities": false
+    },
+    {
+      "unit_number": 10,
+      "title": "Client Representation Agreements",
+      "page_range": "97-106",
+      "topics": [
+        "Representation agreements and contracts",
+        "Types of listing agreements",
+        "Buyer representation agreements",
+        "Commission calculations",
+        "Contract terms and conditions"
+      ],
+      "question_types": ["Matching", "True/False", "Multiple Choice", "Math Practice"],
+      "has_math_practice": true,
+      "has_activities": true,
+      "activities": [
+        "Listing Contracts (Page 103)",
+        "Listing Worksheet (Page 104)"
+      ]
+    },
+    {
+      "unit_number": 11,
+      "title": "Real Estate Contracts",
+      "page_range": "109-118",
+      "topics": [
+        "Contract law fundamentals",
+        "Essential elements of valid contracts",
+        "Types of real estate contracts",
+        "Purchase agreements",
+        "Contract contingencies",
+        "Breach of contract and remedies"
+      ],
+      "question_types": ["Matching A", "Matching B", "True/False", "Multiple Choice"],
+      "has_math_practice": false,
+      "has_activities": true,
+      "activities": ["Sales Contract Analysis"]
+    },
+    {
+      "unit_number": 12,
+      "title": "Real Estate Financing",
+      "page_range": "123-133",
+      "topics": [
+        "Financing options and loan types",
+        "Primary and secondary mortgage markets",
+        "Conventional, FHA, and VA loans",
+        "Interest rates and amortization",
+        "Points and loan origination fees",
+        "Monthly payment calculations"
+      ],
+      "question_types": ["Matching A", "Matching B", "True/False", "Multiple Choice", "Math Practice"],
+      "has_math_practice": true,
+      "math_topics": [
+        "Monthly payment calculations",
+        "Interest over life of loan",
+        "Loan term comparisons (15-year vs 30-year)",
+        "Maximum loan amount calculations",
+        "Borrowing period calculations"
+      ],
+      "sample_problems": [
+        "Calculate monthly payment: $125,000 at 6.68% = $1,085/month",
+        "Interest calculation: $1,085 - $125,000 = $135,400 over loan life",
+        "Compare 15-year vs 30-year loan savings",
+        "Lowest borrowing period: $25,000 ÷ $200 ÷ 1,000 = 125 years"
+      ]
+    },
+    {
+      "unit_number": 13,
+      "title": "Government Involvement in Real Estate Financing",
+      "page_range": "137-?",
+      "topics": [
+        "Government financing programs",
+        "FHA, VA, and federal programs",
+        "Regulatory oversight"
+      ]
+    },
+    {
+      "unit_number": 14,
+      "title": "Closing the Real Estate Transaction",
+      "page_range": "147-?",
+      "topics": [
+        "Closing procedures",
+        "Settlement statements",
+        "RESPA requirements"
+      ]
+    },
+    {
+      "unit_number": 15,
+      "title": "Real Estate Taxes and Other Liens",
+      "page_range": "155-?",
+      "topics": [
+        "Property taxation",
+        "Special assessments",
+        "Mechanic's liens and judgment liens"
+      ]
+    },
+    {
+      "unit_number": 16,
+      "title": "Real Estate Appraisal",
+      "page_range": "165-?",
+      "topics": [
+        "Appraisal principles and methods",
+        "Market value determination",
+        "Three approaches to value"
+      ]
+    }
+  ],
+  "special_features": {
+    "conversion_table": {
+      "page": 2,
+      "description": "Cross-reference between Real Estate Fundamentals (8th Edition) and Modern Real Estate Practice (20th Edition)"
+    },
+    "activities": [
+      {
+        "title": "Commercial Lease Analysis",
+        "page": 200,
+        "description": "Activity analyzing types of commercial leases with shopping center diagram",
+        "visual_elements": ["Shopping center layout", "Lease terms comparison"]
+      },
+      {
+        "title": "Listing Contracts",
+        "unit": 10,
+        "page": 103
+      },
+      {
+        "title": "Listing Worksheet",
+        "unit": 10,
+        "page": 104
+      },
+      {
+        "title": "Sales Contract",
+        "unit": 11
+      }
+    ],
+    "answer_keys": {
+      "format": "Detailed explanations with textbook page references",
+      "includes": [
+        "Letter answers for matching and multiple choice",
+        "Explanations for True/False questions",
+        "Step-by-step solutions for math problems",
+        "Textbook page references for further study"
+      ]
+    }
+  },
+  "question_types": {
+    "matching": {
+      "description": "Match terms with definitions",
+      "purpose": "Test vocabulary and key concept understanding"
+    },
+    "true_false": {
+      "description": "Conceptual understanding questions",
+      "features": ["Detailed explanations in answer key", "Textbook page references"]
+    },
+    "multiple_choice": {
+      "description": "4-5 answer choices per question",
+      "purpose": "Test critical thinking and application",
+      "topics": ["Property classification", "Legal scenarios", "Financial calculations", "Agency relationships"]
+    },
+    "math_practice": {
+      "description": "Real-world calculation problems",
+      "topics": ["Loan payments", "Interest computations", "Commission calculations", "Amortization schedules"]
+    },
+    "fill_in_blank": {
+      "description": "Test recall of specific terms",
+      "units": [9]
+    },
+    "activities": {
+      "description": "Practical application exercises",
+      "includes": ["Document analysis", "Real-world scenarios", "Visual aids and diagrams"]
+    }
+  },
+  "visual_elements": {
+    "cover": {
+      "page": 1,
+      "description": "Professional design with modern architecture photo showing contemporary living space"
+    },
+    "diagrams": [
+      {
+        "page": 200,
+        "title": "Commercial Property Diagram",
+        "content": "Shopping center layout with Acrylic Acres, Blue Buttons Boutique, and Custom Custards",
+        "purpose": "Commercial lease type analysis"
+      }
+    ]
+  },
+  "key_themes": [
+    "Legal Framework (Property law, Contract law, Agency law, Regulatory compliance)",
+    "Financial Literacy (Financing, Investment analysis, Taxation, Appraisal)",
+    "Professional Practice (Brokerage, Client representation, Ethics, Transaction management)",
+    "Property Knowledge (Property types, Ownership forms, Legal descriptions, Title transfer)"
+  ],
+  "recommended_for": [
+    "Real estate licensing candidates",
+    "Real estate students and instructors",
+    "Professionals seeking continuing education",
+    "Anyone studying real estate principles and practices"
+  ],
+  "strengths": [
+    "Comprehensive coverage of all licensing topics",
+    "Multiple question formats for different learning styles",
+    "Detailed answer explanations for self-study",
+    "Math practice sections for calculation proficiency",
+    "Practical activities applying concepts to real scenarios",
+    "Cross-referenced with main textbook",
+    "Professional quality from respected publisher",
+    "Current 20th edition content"
+  ],
+  "study_recommendations": {
+    "for_students": [
+      "Complete each unit sequentially",
+      "Study key terms before attempting questions",
+      "Review learning objectives as roadmap",
+      "Use practice questions for self-assessment",
+      "Review wrong answers with textbook references",
+      "Focus on math practice for calculation proficiency"
+    ],
+    "for_instructors": [
+      "Assign units to complement textbook chapters",
+      "Use questions for quizzes and assessments",
+      "Leverage activities for classroom exercises",
+      "Assign math practice as homework",
+      "Use answer explanations for teaching points"
+    ],
+    "for_exam_prep": [
+      "Work through all question types",
+      "Time yourself on practice sections",
+      "Focus on areas of weakness",
+      "Review comprehensive units (financing, contracts, agency)",
+      "Master mathematical calculations",
+      "Understand key terms thoroughly"
+    ]
+  }
+}
